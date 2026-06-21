@@ -54,8 +54,8 @@ Gracefully handles malformed JSON inputs with inline structural error messages w
 
 > ⭐ **Mandatory Deliverables for Reviewer Quick-Links**
 >
-> - **📦 Live Deployment Link:** [Insert Vercel URL here]
-> - **📧 Contact Information:** [Insert Full Name] — [Insert Email Address]
+> - **📦 Live Deployment Link:** https://zodify-json.vercel.app/
+> - **📧 Contact Information:** Yogendra Singh — bishtyogendra96436372@gmail.com
 > - **✅ Required Element:** This application features the mandatory "Built for Digital Heroes" portal anchor directly embedded within the interface layout for reviewer verification.
 
 ---
@@ -174,8 +174,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Have questions? Found a bug? Want to suggest a feature?
 
-- 📧 **Email:** [Insert Contact Email]
-- 🐛 **GitHub Issues:** [Report a bug](https://github.com/Yogendra-Bisht/zodify-json/issues)
+- 📧 **Email:** bishtyogendra96436372@gmail.com
+- 🐛 **GitHub Issues:** report a bug (https://github.com/Yogendra-Bisht/zodify-json/issues)
 - ⭐ **Star this repo** if you find zodify-json useful!
 
 ---
